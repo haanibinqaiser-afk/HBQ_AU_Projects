@@ -50,8 +50,22 @@ A dedicated and motivated **Cybersecurity Student** currently in my 4th semester
 
 ## 📜 Certifications
 
-*   **Microsoft Excel Certifications** – Issued by Microsoft & Coursera
-*   **Canva Certifications** – Issued by Coursera
+*   **Introduction to Python** - Issued by Coursera
+*   **Get Started with Canva** - Issued by Coursera
+*   **How to create presentations using Canva** - Issued by Coursera
+*   **How to design Facebook/IG Stories using Canva** - Issued by Coursera
+*   **Work Smarter with Microsoft Excel** - Issued by Microsoft and Coursera
+*   **Sell a product or a service with Canva** - Issued by Coursera
+*   **Market your new business with Canva** - Issued by Coursera
+*   **Introduction to C++ Programming: Create a Tic-Tac-Toe Game** - Issued by Coursera
+*   **Create and Sell Digital Teaching Printables with Canva** - Issued by Coursera
+*   **Create a Promotional Video using Canva** - Issued by Coursera
+*   **Data for Business Analysts Using Microsoft Excel** - Issued by Microsoft and Coursera
+*   **Take your resume to the next level with Canva** - Issued by Coursera
+*   **Use Canva to Create Social Media Visuals for Business** - Issued by Coursera
+*   **Introduction to Game Design** - Issued by California Institute of the Arts
+*   **Freelancing** - Issued by DSTP Digiskills (Still Persuing)
+*   **Data Analytics and Business Intelligence** - Issued by DSTP Digiskills (Still Persuing)
 
 ---
 
