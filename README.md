@@ -31,7 +31,7 @@ A dedicated and motivated **Cybersecurity Student** currently in my 4th semester
 ## 📁 Featured Projects & Labs
 
 ### **🛡️ Secure Software Design & Development**
-* **Caesar Cipher Automation Pipeline**
+* **[Caesar Cipher Automation Pipeline](https://github.com/haanibinqaiser-afk/HBQ_AU_Projects/tree/Project-Caesar-Cipher-Pipeline)**
     * *Description*: Built a text encryption/decryption application using C++, automated its testing and deployment workflows using **Jenkins Pipelines**, and containerized the environment using **Docker** for consistent execution.
 
 ### **🔑 Cryptography & Information Assurance**
