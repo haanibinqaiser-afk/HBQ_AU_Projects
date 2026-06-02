@@ -30,21 +30,21 @@ A dedicated and motivated **Cybersecurity Student** currently in my 4th semester
 
 ## 📁 Featured Projects & Labs
 
-### **🔒 Security & Cryptography**
-*   **Caesar Cipher Application**
-    *   *Description*: Built a text encryption/decryption desktop application incorporating robust file handling logic using C++.
-*   **Cryptography Labs**
-    *   *Description*: Hands-on implementation of symmetric and asymmetric cryptographic algorithms (AES, DES, RSA, DSA) using OpenSSL tools and classical ciphers in Python.
-*   **Network Security & Analysis Labs**
-    *   *Description*: Executed traffic monitoring, packet sniffing, and network analysis using **Wireshark**, **Burp Suite**, **Bettercap**, and **Cisco Packet Tracer**.
-*   **Secure Software Design Labs**
-    *   *Description*: Performed Threat Modeling and Vulnerability Testing using **Burp Suite** to identify flaws and ensure application security.
+### **🛡️ Secure Software Design & Development**
+* **Caesar Cipher Automation Pipeline**
+    * [cite_start]*Description*: Built a text encryption/decryption application using C++[cite: 45, 46], automated its testing and deployment workflows using **Jenkins Pipelines**, and containerized the environment using **Docker** for consistent execution.
 
-### **💻 Software Development & Data Structures**
-*   **Course Management System**
-    *   *Description*: Developed a C++ system utilizing **Binary Search Trees (BST)** for optimized course organization and **Queues** to implement undo/redo functionalities.
-*   **Teacher Management System**
-    *   *Description*: Implemented an Object-Oriented Programming (OOP) project utilizing core pillars like classes, inheritance, and encapsulation.
+### **🔑 Cryptography & Information Assurance**
+* **Cryptography & Steganography Labs**
+    * [cite_start]*Description*: Implemented core symmetric and asymmetric cryptographic algorithms (AES, DES, RSA, DSA) using **OpenSSL** tools and Python[cite: 48]. Explored data hiding techniques through hands-on **Steganography** labs.
+* **Information Assurance Assignments**
+    * *Description*: Utilized **VeraCrypt** for robust volume encryption and data protection. Formulated, implemented, and rigorously tested organizational security policies.
+
+### **🌐 Network Security & Defense**
+* **Network Security & Traffic Analysis Labs**
+    * *Description*: Executed comprehensive network reconnaissance, packet sniffing, and traffic analysis using **Wireshark**, **Nmap**, and **Scapy**. 
+    * [cite_start]*Hands-on Exploitation*: Simulated **Man-in-the-Middle (MITM) attacks** and network manipulation using **Bettercap** and **Ettercap**[cite: 49, 55].
+    * [cite_start]*Infrastructure*: Designed and analyzed secure network topologies using **Cisco Packet Tracer**[cite: 49, 52].
 
 ---
 
