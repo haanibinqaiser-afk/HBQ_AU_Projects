@@ -22,7 +22,7 @@ A dedicated and motivated **Cybersecurity Student** currently in my 4th semester
 *   **Cryptographic Tools**: OpenSSL, Implementation of AES, DES, RSA, DSA, and Classical Ciphers
 
 ### **Languages & Core Tech**
-*   **Programming**: C++, Python
+*   **Programming**: C++, C#, C, Python
 *   **Data Structures & OOP**: Object-Oriented Programming (Classes, Inheritance, Encapsulation), Binary Search Trees (BST), Queues
 *   **Productivity**: Microsoft Excel (Certified), Microsoft Office, Canva
 
