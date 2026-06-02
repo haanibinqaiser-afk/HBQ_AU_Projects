@@ -32,19 +32,19 @@ A dedicated and motivated **Cybersecurity Student** currently in my 4th semester
 
 ### **🛡️ Secure Software Design & Development**
 * **Caesar Cipher Automation Pipeline**
-    * [cite_start]*Description*: Built a text encryption/decryption application using C++[cite: 45, 46], automated its testing and deployment workflows using **Jenkins Pipelines**, and containerized the environment using **Docker** for consistent execution.
+    * *Description*: Built a text encryption/decryption application using C++, automated its testing and deployment workflows using **Jenkins Pipelines**, and containerized the environment using **Docker** for consistent execution.
 
 ### **🔑 Cryptography & Information Assurance**
 * **Cryptography & Steganography Labs**
-    * [cite_start]*Description*: Implemented core symmetric and asymmetric cryptographic algorithms (AES, DES, RSA, DSA) using **OpenSSL** tools and Python[cite: 48]. Explored data hiding techniques through hands-on **Steganography** labs.
+    * *Description*: Implemented core symmetric and asymmetric cryptographic algorithms (AES, DES, RSA, DSA) using **OpenSSL** tools and Python. Explored data hiding techniques through hands-on **Steganography** labs.
 * **Information Assurance Assignments**
     * *Description*: Utilized **VeraCrypt** for robust volume encryption and data protection. Formulated, implemented, and rigorously tested organizational security policies.
 
 ### **🌐 Network Security & Defense**
 * **Network Security & Traffic Analysis Labs**
-    * *Description*: Executed comprehensive network reconnaissance, packet sniffing, and traffic analysis using **Wireshark**, **Nmap**, and **Scapy**. 
-    * [cite_start]*Hands-on Exploitation*: Simulated **Man-in-the-Middle (MITM) attacks** and network manipulation using **Bettercap** and **Ettercap**[cite: 49, 55].
-    * [cite_start]*Infrastructure*: Designed and analyzed secure network topologies using **Cisco Packet Tracer**[cite: 49, 52].
+    * *Description*: Executed comprehensive network reconnaissance, packet sniffing, and traffic analysis using **Wireshark**, **Nmap**, and **Scapy**.
+    * *Hands-on Exploitation*: Simulated **Man-in-the-Middle (MITM) attacks** and network manipulation using **Bettercap** and **Ettercap**.
+    * *Infrastructure*: Designed and analyzed secure network topologies using **Cisco Packet Tracer**.
 
 ---
 
