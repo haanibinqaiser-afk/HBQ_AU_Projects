@@ -48,7 +48,7 @@ A dedicated and motivated **Cybersecurity Student** currently in my 4th semester
 
 ---
 
-## 📜 Certifications
+## 📜 [Certifications](https://github.com/haanibinqaiser-afk/HBQ_AU_Projects/tree/Courses-and-certifications)
 
 *   **Introduction to Python** - Issued by Coursera
 *   **Get Started with Canva** - Issued by Coursera
