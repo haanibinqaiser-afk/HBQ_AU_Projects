@@ -41,7 +41,7 @@ A dedicated and motivated **Cybersecurity Student** currently in my 4th semester
     * *Description*: Utilized **VeraCrypt** for robust volume encryption and data protection. Formulated, implemented, and rigorously tested organizational security policies.
 
 ### **🌐 Network Security & Defense**
-* **Network Security & Traffic Analysis Labs**
+* **[Network Security & Traffic Analysis Labs](https://github.com/haanibinqaiser-afk/HBQ_AU_Projects/tree/Network-Security)**
     * *Description*: Executed comprehensive network reconnaissance, packet sniffing, and traffic analysis using **Wireshark**, **Nmap**, and **Scapy**.
     * *Hands-on Exploitation*: Simulated **Man-in-the-Middle (MITM) attacks** and network manipulation using **Bettercap** and **Ettercap**.
     * *Infrastructure*: Designed and analyzed secure network topologies using **Cisco Packet Tracer**.
