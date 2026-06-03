@@ -35,7 +35,7 @@ A dedicated and motivated **Cybersecurity Student** currently in my 4th semester
     * *Description*: Built a text encryption/decryption application using C++, automated its testing and deployment workflows using **Jenkins Pipelines**, and containerized the environment using **Docker** for consistent execution.
 
 ### **🔑 Cryptography & Information Assurance**
-* **Cryptography & Steganography Labs**
+* **[Cryptography & Steganography Labs](https://github.com/haanibinqaiser-afk/HBQ_AU_Projects/tree/Cryptography)**
     * *Description*: Implemented core symmetric and asymmetric cryptographic algorithms (AES, DES, RSA, DSA) using **OpenSSL** tools and Python. Explored data hiding techniques through hands-on **Steganography** labs.
 * **Information Assurance Assignments**
     * *Description*: Utilized **VeraCrypt** for robust volume encryption and data protection. Formulated, implemented, and rigorously tested organizational security policies.
